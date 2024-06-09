@@ -3,6 +3,20 @@
 How to use Server-Timing provides performance metrics in the response headers.
 </p>
 
+## Demo
+
+[![Screenshot](https://i.gyazo.com/4a4107bc225a8ff8d521efe0ec1f12aa.png)](https://gyazo.com/4a4107bc225a8ff8d521efe0ec1f12aa)
+
+## What is Server-Timing?
+
+The Server-Timing HTTP response header provides performance metrics in the response headers. It is a way to communicate back to the browser and provide performance metrics.
+
+## Use cases
+
+- Debugging performance issues
+- Monitoring performance
+- Benchmarking
+
 ## Usage
 
 ```sh
