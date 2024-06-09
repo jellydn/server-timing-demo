@@ -1,0 +1,40 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "jsr:@hono/hono@^4.4.4": "jsr:@hono/hono@4.4.4",
+      "npm:@types/node": "npm:@types/node@18.16.19",
+      "npm:env-var@^7.5.0": "npm:env-var@7.5.0"
+    },
+    "jsr": {
+      "@hono/hono@4.4.4": {
+        "integrity": "38265f77059877cbee3579c419c561e90d8e8bf6861ce554832018b9998dcc8e"
+      }
+    },
+    "npm": {
+      "@types/node@18.16.19": {
+        "integrity": "sha512-IXl7o+R9iti9eBW4Wg2hx1xQDig183jj7YLn8F7udNceyfkbn1ZxmzZXuak20gR40D7pIkIY1kYGx5VIGbaHKA==",
+        "dependencies": {}
+      },
+      "env-var@7.5.0": {
+        "integrity": "sha512-mKZOzLRN0ETzau2W2QXefbFjo5EF4yWq28OyKb9ICdeNhHJlOE/pHHnz4hdYJ9cNZXcJHo5xN4OT4pzuSHSNvA==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {},
+  "workspace": {
+    "dependencies": [
+      "jsr:@hono/hono@^4.4.4",
+      "npm:env-var@^7.5.0"
+    ],
+    "packageJson": {
+      "dependencies": [
+        "npm:@biomejs/biome@1.8.0",
+        "npm:@types/bun@latest",
+        "npm:env-var@^7.5.0",
+        "npm:hono@^4.4.2"
+      ]
+    }
+  }
+}

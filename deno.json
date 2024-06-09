@@ -1,10 +1,11 @@
 {
 	"imports": {
 		"hono": "jsr:@hono/hono@^4.4.4",
+		"env-var": "npm:env-var@^7.5.0",
 		"./lib": "./src/lib"
 	},
 	"tasks": {
-		"start": "deno serve src/index.ts"
+		"start": "deno serve --allow-env --allow-net src/index.ts"
 	},
 	"compilerOptions": {
 		"jsx": "precompile",
