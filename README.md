@@ -3,9 +3,7 @@
 How to use Server-Timing provides performance metrics in the response headers.
 </p>
 
-## Demo
-
-[![Screenshot](https://i.gyazo.com/4a4107bc225a8ff8d521efe0ec1f12aa.png)](https://gyazo.com/4a4107bc225a8ff8d521efe0ec1f12aa)
+[![IT Man - Unlocking Performance Insights with Server-Timing Headers](https://i.ytimg.com/vi/uEi9pmLCa9E/hqdefault.jpg)](https://www.youtube.com/watch?v=uEi9pmLCa9E)
 
 ## What is Server-Timing?
 
@@ -30,6 +28,10 @@ bun dev
 ```
 
 Then open your browser and go to http://localhost:8000
+
+## Demo
+
+[![Screenshot](https://i.gyazo.com/4a4107bc225a8ff8d521efe0ec1f12aa.png)](https://gyazo.com/4a4107bc225a8ff8d521efe0ec1f12aa)
 
 ## Resources
 
