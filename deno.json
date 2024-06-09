@@ -1,13 +1,13 @@
 {
-  "imports": {
-    "hono": "jsr:@hono/hono@^4.4.4",
-    "./lib": "./src/lib"
-  },
-  "tasks": {
-    "start": "deno serve src/index.ts"
-  },
-  "compilerOptions": {
-    "jsx": "precompile",
-    "jsxImportSource": "hono/jsx"
-  }
+	"imports": {
+		"hono": "jsr:@hono/hono@^4.4.4",
+		"./lib": "./src/lib"
+	},
+	"tasks": {
+		"start": "deno serve src/index.ts"
+	},
+	"compilerOptions": {
+		"jsx": "precompile",
+		"jsxImportSource": "hono/jsx"
+	}
 }
