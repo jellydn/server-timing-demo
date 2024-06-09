@@ -32,8 +32,8 @@
       "dependencies": [
         "npm:@biomejs/biome@1.8.0",
         "npm:@types/bun@latest",
-        "npm:env-var@^7.5.0",
-        "npm:hono@^4.4.2"
+        "npm:env-var@7.5.0",
+        "npm:hono@4.4.4"
       ]
     }
   }
