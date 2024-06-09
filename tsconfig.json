@@ -1,5 +1,6 @@
 {
 	"compilerOptions": {
+		"allowImportingTsExtensions": true,
 		"strict": true,
 		"jsx": "react-jsx",
 		"jsxImportSource": "hono/jsx"
