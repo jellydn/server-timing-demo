@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.4.2"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.8.0",
+    "@types/bun": "latest"
+  }
+}
