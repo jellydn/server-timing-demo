@@ -14,6 +14,7 @@ bun install
 ```sh
 bun dev
 ```
+
 Then open your browser and go to http://localhost:8000
 
 ## Resources
@@ -25,9 +26,9 @@ Then open your browser and go to http://localhost:8000
 
 👤 **Dung Huynh**
 
--   Website: https://productsway.com/
--   Twitter: [@jellydn](https://twitter.com/jellydn)
--   Github: [@jellydn](https://github.com/jellydn)
+- Website: https://productsway.com/
+- Twitter: [@jellydn](https://twitter.com/jellydn)
+- Github: [@jellydn](https://github.com/jellydn)
 
 ## Show your support
 
