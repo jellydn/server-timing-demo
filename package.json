@@ -4,7 +4,7 @@
 	},
 	"dependencies": {
 		"env-var": "7.5.0",
-		"hono": "4.4.5"
+		"hono": "4.4.6"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.8.1",
