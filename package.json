@@ -7,7 +7,7 @@
 		"hono": "4.6.2"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.1",
+		"@biomejs/biome": "1.9.2",
 		"@types/bun": "latest"
 	}
 }
