@@ -21,7 +21,7 @@ jobs:
       - name: Install Deno
         uses: denoland/setup-deno@v1.5.2
         with:
-          deno-version: 1.46.3
+          deno-version: 2.7.14
 
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@1.13.1
