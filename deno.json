@@ -1,7 +1,7 @@
 {
 	"imports": {
-		"hono": "jsr:@hono/hono@^4.4.4",
-		"env-var": "npm:env-var@^7.5.0",
+		"hono": "jsr:@hono/hono@4.12.16",
+		"env-var": "npm:env-var@7.5.0",
 		"./lib": "./src/lib"
 	},
 	"tasks": {
