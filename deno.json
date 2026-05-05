@@ -1,6 +1,6 @@
 {
 	"imports": {
-		"hono": "jsr:@hono/hono@4.12.16",
+		"hono": "jsr:@hono/hono@4.12.17",
 		"env-var": "npm:env-var@7.5.0",
 		"./lib": "./src/lib"
 	},
