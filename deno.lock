@@ -74,8 +74,8 @@
         "bun-types"
       ]
     },
-    "@types/node@25.9.2": {
-      "integrity": "sha512-G05zqtJhcDLb8uslf5EjCxXg9G1KQxiV8OS0R26IC//Eoyitzqe8z37I7cqvnZlrlSfgocQRfSn/AHBZJJFyGw==",
+    "@types/node@25.9.3": {
+      "integrity": "sha512-603BddQMv3pUcr4U2dhujk83N2tTDVr/34wII2B6bJy6g+8WD6yUb11jszNs0gdi4PesVWl7ABt8nYMVpnLUcg==",
       "dependencies": [
         "undici-types"
       ]
